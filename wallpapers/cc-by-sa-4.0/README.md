@@ -45,3 +45,15 @@ Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunset_-_Lan
 ![Stephane Wootha Richard - Golden Hour in Squares](./wootha_golden-hour.jpg)
 
 Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Golden_Hour_in_Squares.jpg)
+
+## XFCE
+
+### Denis Kuzminok
+
+**xfce-flower**
+
+![Denis Kuzminok - xfce-flower](./xfce-flower.jpg)
+
+**xfce-leaves**
+
+![Denis Kuzminok - xfce-leaves](./xfce-leaves.jpg)
